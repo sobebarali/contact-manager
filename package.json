@@ -19,12 +19,12 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sobebarali/todo-app-2.git"
+    "url": "git@github.com:sobebarali/todo-app-mySql.git"
   },
   "author": "Sobebar Ali",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sobebarali/todo-app-2/issues"
+    "url": "https://github.com/sobebarali/todo-app-mySql/issues"
   },
-  "homepage": "https://github.com/sobebarali/todo-app-2#readme"
+  "homepage": "https://github.com/sobebarali/todo-app-mySql#readme"
 }
